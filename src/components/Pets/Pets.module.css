@@ -1,0 +1,39 @@
+.petsList {
+  width: 1200px;
+  padding: 100px 0 0;
+  margin: auto;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.petsListItem {
+  width: 350px;
+  padding: 8px;
+  padding-bottom: 0;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  border-radius: 2px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.petsListItem img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.petsListItem:nth-child(n-3) {
+  margin-bottom: 60px;
+}
+
+.name {
+  display: block;
+  text-decoration: none;
+  font-size: 30px;
+  color: #232323;
+  padding: 10px 0;
+  text-align: center;
+}
