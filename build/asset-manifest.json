@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-pet-store/static/css/main.9f09437a.chunk.css",
+    "main.js": "/goit-react-hw-04-pet-store/static/js/main.da990bab.chunk.js",
+    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.da990bab.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-04-pet-store/static/js/runtime~main.c04ed34c.js",
+    "runtime~main.js.map": "/goit-react-hw-04-pet-store/static/js/runtime~main.c04ed34c.js.map",
+    "static/js/2.757cb7d1.chunk.js": "/goit-react-hw-04-pet-store/static/js/2.757cb7d1.chunk.js",
+    "static/js/2.757cb7d1.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/2.757cb7d1.chunk.js.map",
+    "static/css/3.4d81066b.chunk.css": "/goit-react-hw-04-pet-store/static/css/3.4d81066b.chunk.css",
+    "static/js/3.10572483.chunk.js": "/goit-react-hw-04-pet-store/static/js/3.10572483.chunk.js",
+    "static/js/3.10572483.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/3.10572483.chunk.js.map",
+    "static/css/4.fe4909c0.chunk.css": "/goit-react-hw-04-pet-store/static/css/4.fe4909c0.chunk.css",
+    "static/js/4.822aa7db.chunk.js": "/goit-react-hw-04-pet-store/static/js/4.822aa7db.chunk.js",
+    "static/js/4.822aa7db.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/4.822aa7db.chunk.js.map",
+    "static/js/5.5dc8a7ea.chunk.js": "/goit-react-hw-04-pet-store/static/js/5.5dc8a7ea.chunk.js",
+    "static/js/5.5dc8a7ea.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/5.5dc8a7ea.chunk.js.map",
+    "static/js/6.e1016eda.chunk.js": "/goit-react-hw-04-pet-store/static/js/6.e1016eda.chunk.js",
+    "static/js/6.e1016eda.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/6.e1016eda.chunk.js.map",
+    "index.html": "/goit-react-hw-04-pet-store/index.html",
+    "precache-manifest.76d824850ef8797b451efffc96645228.js": "/goit-react-hw-04-pet-store/precache-manifest.76d824850ef8797b451efffc96645228.js",
+    "service-worker.js": "/goit-react-hw-04-pet-store/service-worker.js",
+    "static/css/3.4d81066b.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/3.4d81066b.chunk.css.map",
+    "static/css/4.fe4909c0.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/4.fe4909c0.chunk.css.map",
+    "static/css/main.9f09437a.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/main.9f09437a.chunk.css.map"
+  }
+}
